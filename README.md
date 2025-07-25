@@ -19,7 +19,7 @@ A powerful and visually interactive **habit tracking dashboard** built entirely 
 - Bar chart of all habits in selected month
 - Line chart showing habit progress over months
 
-![Dashboard](screenshots/Screenshot-1.png)
+![Dashboard](https://github.com/krithiksharan13/Habit-Tracker-Excel/tree/main/screenshots/screenshot-1.png)
 </details>
 
 <details>
@@ -29,7 +29,7 @@ A powerful and visually interactive **habit tracking dashboard** built entirely 
 - Auto-calculated percentages
 - Used to feed visual charts
 
-![Data Sheet](screenshots/Screenshot-2.png)
+![Data Sheet]([screenshots/Screenshot-2.png](https://github.com/krithiksharan13/Habit-Tracker-Excel/tree/main/screenshots/screenshot-2.png))
 </details>
 
 <details>
@@ -38,7 +38,7 @@ A powerful and visually interactive **habit tracking dashboard** built entirely 
 - Tracks overall YES and NO counts
 - Displays lifetime success %
 
-![Habit List](screenshots/Screenshot-3.png)
+![Habit List]([screenshots/Screenshot-3.png](https://github.com/krithiksharan13/Habit-Tracker-Excel/tree/main/screenshots/screenshot-3.png))
 </details>
 
 ---
